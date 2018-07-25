@@ -1,0 +1,101 @@
+body {
+    background: url(https://img00.deviantart.net/0e08/i/2014/239/4/2/blitzball_by_frankatt-d7wvaw8.png);
+    background-size: contain;
+}
+
+.top-banner {
+    height: 600px;
+    text-align: center;
+    text-decoration: underline;
+    color: orange;
+}
+
+.top-banner h1 {
+    width: 66%;
+    margin: auto;
+    background-color: rgba(99, 179, 245, 0.473)
+}
+
+.teams {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    border: solid skyblue 1px;
+    text-align: center;
+    color: skyblue;
+    background-color: orange;
+    margin: -25px 0 25px 0;
+    padding: 25px;
+}
+
+.besaid {
+    background: url(https://i.ytimg.com/vi/L7wb30mL3kQ/hqdefault.jpg);
+    background-repeat: no-repeat;
+}
+
+.player-container {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    border: solid skyblue 1px;
+    text-align: center;
+    color: skyblue;
+    background-color: orange;
+}
+
+.player-data {
+    display: flex;
+    border: solid black 1px;
+}
+
+.player-data p {
+    border: solid black 1px;
+    margin: 10px 0;
+}
+
+.team-form {
+    background-color: rgba(90, 90, 236, 0.637);
+    margin: auto;
+    width: 33%;
+    height: 50px;
+}
+
+.delete-butt-container {
+    background-color: rgba(23, 161, 216, 0.514);
+    height: 100px;
+    width: 66%;
+    border: solid honeydew 2px;
+    display: flex;
+    margin: auto;
+}
+
+.delete-butt input {
+    padding: 10px;
+    display: flex;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    color: orange;
+    background-color: rgba(23, 161, 216, 0.514);
+    width: 66%;
+    margin: auto;
+}
+
+.delete-butt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+}
+
+.cup {
+    text-align: center;
+    color: orange;
+    background: url(https://ih0.redbubble.net/image.179816051.6842/raf,750x1000,075,t,353d77:4d8b4ffd91.jpg);
+    height: 2200px;
+    width: auto;
+    margin: auto;
+    background-size: cover;
+}

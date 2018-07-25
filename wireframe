@@ -1,0 +1,26 @@
+//Build backend server and database
+//build schema for teams (and players/free agents if I have time)
+//make sure all my routes are working and load team data to my database(and player if i have time)
+//create react app and connect my server/database to react
+//start working on react components 
+
+// react
+    //<NavBar />
+    //<Body />
+        //<Teams />
+            //<BesaidAurochs />
+            //<AlBhedQsyches />
+            //<LucaGoers />
+            //<GuadoGlories />
+            //<kilikaBeasts />
+            //<RonsoFangs />
+        //<Players />If I have time
+            //<individualPlayers /> if I'm really feeling crisp
+        //<AddTeamUI />
+    //<Foot />
+
+//User Stories
+// as a user I will be able to 
+//1. get all the team stats and schedule 
+//2. look up players/free agents
+//3. add themselfs as a free agent look for a team/registar a team
